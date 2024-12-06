@@ -7,7 +7,7 @@ export default function EspacesMembers() {
   const navigate = useNavigate();
 
     function handleRetour () {
-    navigate('/login')
+    navigate('/profile')
   } 
 
 
