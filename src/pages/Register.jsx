@@ -110,7 +110,8 @@ export default function Register() {
      </div>
 
      <div className="mb-3">
-        <button type="submit" className="bg-[blue] text-white rounded "> Se connecter </button>
+        <button type="submit" className="bg-[blue] text-white rounded "> vous enregistrer
+        </button>
 
      </div>
 
